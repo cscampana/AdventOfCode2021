@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g -Wl,--enable-auto-import CMakeFiles/Part2.dir/main.cpp.o -o Part2.exe -Wl,--out-implib,libPart2.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

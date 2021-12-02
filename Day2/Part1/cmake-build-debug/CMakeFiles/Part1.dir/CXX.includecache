@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Caike Campana/Desktop/Development/C++/AdventOfCode/Day2/Part1/Dive.cpp
+iostream
+-
+fstream
+-
+string
+-
+unordered_map
+-
+iterator
+-
+
